@@ -2,7 +2,7 @@
   "name": "@f/string-is-number",
   "description": "Check is a string looks like a number.",
   "repository": "git://github.com/micro-js/string-is-number.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
